@@ -1,0 +1,289 @@
+1603089324687	geckodriver	INFO	Listening on 127.0.0.1:56396
+1603089325446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileSAS9fR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603089328357	Marionette	INFO	Listening on port 56412
+1603089328395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603089330407	Marionette	INFO	Stopped listening on port 56412
+1603089331002	geckodriver	INFO	Listening on 127.0.0.1:56504
+1603089332014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileJiiJVx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603089334274	Marionette	INFO	Listening on port 56519
+1603089334311	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://b09289b8-21b8-354a-a714-f0d20d2e2a0c/background.js 269
+[[Exception stack
+@moz-extension://b09289b8-21b8-354a-a714-f0d20d2e2a0c/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603089341310	Marionette	INFO	Stopped listening on port 56519
+1603089502424	geckodriver	INFO	Listening on 127.0.0.1:57448
+1603089503433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileybBZeG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603089505937	Marionette	INFO	Listening on port 57464
+1603089506034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603089507942	Marionette	INFO	Stopped listening on port 57464
+1603089508549	geckodriver	INFO	Listening on 127.0.0.1:57556
+1603089509557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileScEHz8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603089511775	Marionette	INFO	Listening on port 57571
+1603089511846	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://19e705b3-6d4d-cf4c-8e4c-10cb7fd777dc/background.js 269
+[[Exception stack
+@moz-extension://19e705b3-6d4d-cf4c-8e4c-10cb7fd777dc/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603089518122	Marionette	INFO	Stopped listening on port 57571
+1603124630254	geckodriver	INFO	Listening on 127.0.0.1:63901
+1603124631264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofilewrEqwh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603124640132	Marionette	INFO	Listening on port 63918
+1603124640182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603124642612	Marionette	INFO	Stopped listening on port 63918
+1603124643199	geckodriver	INFO	Listening on 127.0.0.1:64098
+1603124644212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileZCO3fn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603124646428	Marionette	INFO	Listening on port 64113
+1603124646485	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://e6a0bd5b-b4a6-354c-83a0-bdab935cafc5/background.js 269
+[[Exception stack
+@moz-extension://e6a0bd5b-b4a6-354c-83a0-bdab935cafc5/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603124651594	Marionette	INFO	Stopped listening on port 64113
+1603145740853	geckodriver	INFO	Listening on 127.0.0.1:50223
+1603145740855	geckodriver	INFO	Listening on 127.0.0.1:50224
+1603145741822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileULPH4Y"
+1603145741822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileXGI5ti"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603145745768	Marionette	INFO	Listening on port 50251
+1603145745837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603145747771	Marionette	INFO	Stopped listening on port 50251
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603145751499	Marionette	INFO	Listening on port 50250
+1603145751602	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://583ceafd-43ff-7a4f-a87c-a641e8d4577b/background.js 269
+[[Exception stack
+@moz-extension://583ceafd-43ff-7a4f-a87c-a641e8d4577b/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603145757231	Marionette	INFO	Stopped listening on port 50250
+1603166276713	geckodriver	INFO	Listening on 127.0.0.1:60906
+1603166277728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileNqKcd4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603166280257	Marionette	INFO	Listening on port 60927
+1603166280262	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://67784dff-ac6a-c74a-b5a3-ebf2ff2a53a2/background.js 269
+[[Exception stack
+@moz-extension://67784dff-ac6a-c74a-b5a3-ebf2ff2a53a2/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603167403875	Marionette	INFO	Stopped listening on port 60927
+1603428545364	geckodriver	INFO	Listening on 127.0.0.1:50033
+1603428546160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileCdEDlx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603428549223	Marionette	INFO	Listening on port 50049
+1603428549284	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://d01d22a2-4e31-fa47-bde1-306e935c33dc/background.js 269
+[[Exception stack
+@moz-extension://d01d22a2-4e31-fa47-bde1-306e935c33dc/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603428557510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+1603428723265	geckodriver	INFO	Listening on 127.0.0.1:50920
+1603428724274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofilegswJIf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603428726930	Marionette	INFO	Listening on port 50935
+1603428726953	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://93812373-7ee4-7746-afad-7eda0c6131c1/background.js 269
+[[Exception stack
+@moz-extension://93812373-7ee4-7746-afad-7eda0c6131c1/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603428734786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1603428807178	geckodriver	INFO	Listening on 127.0.0.1:51399
+1603428808194	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofilevjiHLX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603428811114	Marionette	INFO	Listening on port 51414
+1603428811162	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://3c3637f5-e144-6449-a7de-f4191c6d7cfa/background.js 269
+[[Exception stack
+@moz-extension://3c3637f5-e144-6449-a7de-f4191c6d7cfa/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603428814504	Marionette	INFO	Stopped listening on port 50935
+1603428817649	Marionette	INFO	Stopped listening on port 50049
+1603428818314	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1603428987283	Marionette	INFO	Stopped listening on port 51414
+1603429821211	geckodriver	INFO	Listening on 127.0.0.1:55029
+1603429822222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileMUZ7q0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603429824988	Marionette	INFO	Listening on port 55041
+1603429825003	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: requestBody is null moz-extension://7c68cef8-48f8-2243-81b4-001a4628af31/background.js 269
+[[Exception stack
+@moz-extension://7c68cef8-48f8-2243-81b4-001a4628af31/background.js:269:7
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:619:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:169:20
+run@resource://gre/modules/ConduitsChild.jsm:160:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:161:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:161:31
+]]
+1603429832131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1603430322965	Marionette	INFO	Stopped listening on port 55041
+2020-10-23 01:19:09.575 firefox-bin[49305:17645179] Unable to install helper!
+console.error: SessionStore: "The session file is invalid: TypeError: state.windows[0] is undefined"
+1603430352074	Marionette	INFO	Listening on port 55041
+1603430356045	Marionette	INFO	Stopped listening on port 55041
+1603430358497	Marionette	INFO	Listening on port 55041
+1603430363311	Marionette	INFO	Stopped listening on port 55041
+2020-10-23 01:19:34.482 firefox-bin[49323:17646220] Unable to install helper!
+1603430376685	Marionette	INFO	Listening on port 55041
+1603430398360	Marionette	INFO	Stopped listening on port 55041
+1603430399863	Marionette	INFO	Listening on port 55041
+1603430443174	Marionette	INFO	Stopped listening on port 55041
+1603430444705	Marionette	INFO	Listening on port 55041
+1603430454468	Marionette	INFO	Stopped listening on port 55041
+2020-10-23 01:21:08.163 firefox-bin[49416:17648245] Unable to install helper!
+1603430469461	Marionette	INFO	Listening on port 55041
+1603430624742	Marionette	INFO	Stopped listening on port 55041
+1603430774364	geckodriver	INFO	Listening on 127.0.0.1:57908
+1603430775372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f4/xtwvp8255hn2hj8mc4rpcbgm0000gp/T/rust_mozprofileQ4IMev"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603430779700	Marionette	INFO	Listening on port 57920
+1603430779738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603430787119	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1603431299148	Marionette	INFO	Stopped listening on port 57920
